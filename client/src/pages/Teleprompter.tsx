@@ -266,9 +266,10 @@ export default function Teleprompter() {
       {/* Teleprompter Content */}
       <div
         ref={contentRef}
-        className="flex-1 overflow-y-auto scrollbar-hide"
+        className="overflow-y-auto scrollbar-hide"
         style={{
           scrollBehavior: "auto",
+          height: "calc(100vh - 80px)",
         }}
       >
         <div className="container max-w-4xl py-16">

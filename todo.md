@@ -56,4 +56,7 @@
 - [x] Create checkpoint for deployment
 
 ## GitHub Integration
-- [ ] Sync application to GitHub repository https://github.com/jamesshastry/teleprompter.git
+- [x] Sync application to GitHub repository https://github.com/jamesshastry/teleprompter.git
+
+## Bug Fixes
+- [x] Fix teleprompter scrolling functionality
